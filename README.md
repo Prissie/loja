@@ -7,7 +7,7 @@ Projeto criado durante a DevShool MJV 🚀
 
 
 Lendo o diagrama:
-visibilidade dos atributos
+visibilidade dos atributos e métodos
 
  \+ publico
  
