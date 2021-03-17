@@ -1,16 +1,19 @@
 # loja
-Projeto criado durante a DevShool MJV :rocket
+Projeto criado durante a DevShool MJV 🚀
 
-<div align="center">
-  <img alt="Diagrama do Sistema" title="diagrama" src="diagrama.jpeg" />
-</div>
+![Diagrama do Sistema](https://github.com/Prissie/loja/blob/master/diagrama.jpeg)
+
+
 
 
 Lendo o diagrama:
-<p>visibilidade dos atributos</p>
-\+ publico
-\# protegido
-\- privado
+visibilidade dos atributos
+
+ \+ publico
+ 
+ \# protegido
+ 
+ \- privado
 
 
 Livro e Cd generalizam Produto
@@ -24,5 +27,26 @@ Livro e Cd tem associação com Cadastro
 a classe Cadastro desconhece a relação que a classe Livro e Cd tem com ela.
 
 Multiplicidade
-1..* Um ou muitos. Indica que há pelo menos um
+1..*  Um ou muitos. Indica que há pelo menos um
 objeto envolvido no relacionamento.
+
+
+
+
+**Referências**
+
+https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-classe-uml
+
+https://pt.stackoverflow.com/questions/360609/diagrama-de-relacionamento-condicional-entre-classes
+
+https://qastack.com.br/programming/1874049/explanation-of-the-uml-arrows
+
+https://www.devmedia.com.br/orientacao-a-objetos-simples-assim/3254
+
+https://www.devmedia.com.br/orientacoes-basicas-na-elaboracao-de-um-diagrama-de-classes/37224
+
+https://docs.microsoft.com/pt-br/previous-versions/visualstudio/visual-studio-2015/modeling/uml-class-diagrams-reference?view=vs-2015&redirectedfrom=MSDN
+
+https://www.ateomomento.com.br/uml-diagrama-de-classes/
+
+http://www.macoratti.net/net_uml1.htm
