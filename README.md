@@ -1,5 +1,5 @@
 # loja
-Projeto criado durante a DevShool MJV 🚀
+Projeto criado durante a DevSchool MJV 🚀
 
 ![Diagrama do Sistema](https://github.com/Prissie/loja/blob/master/diagrama.jpeg)
 
